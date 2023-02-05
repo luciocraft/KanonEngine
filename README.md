@@ -9,7 +9,7 @@ use the mods folder
 ## Credits:
 * lucio_craft - Creator
 * Murilo Almeida - Artist
-* Simonfzc989 - Tester
+* Simonfzc989 - Beta Tester
 ## Special Thanks:
 * simonfzc989 (testing the engine)
 * Nick (Testing The engine)
