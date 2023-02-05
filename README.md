@@ -8,9 +8,9 @@ download the engine , and its all done not too much work
 use the mods folder
 ## Credits:
 * lucio_craft - Creator
-Murilo Almeida - Artist
-Simonfzc989 - Tester
+* Murilo Almeida - Artist
+* Simonfzc989 - Tester
 ## Special Thanks:
-simonfzc989 (testing the engine)
-Nick (Testing The engine)
-you all (For Downloading The engine)
+* simonfzc989 (testing the engine)
+* Nick (Testing The engine)
+* you all (For Downloading The engine)
