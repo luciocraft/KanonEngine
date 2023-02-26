@@ -9,9 +9,10 @@ download the engine , and its all done not too much work
 ## Customization:
 use the mods folder
 ## Credits:
-* lucio_craft - Creator
+* lucio_craft - Creator , coder
 * Murilo Almeida - Artist
 * Simonfzc989 - Beta Tester
+* ryan_sdjr - ui creator , coder
 ## Special Thanks:
 * simonfzc989 (testing the engine)
 * Nick (Testing The engine)
